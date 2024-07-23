@@ -3,7 +3,7 @@
 # Course: CS261 - Data Structures
 # Assignment: 3
 # Due Date: 22 July
-# Description: Implementation of a stack using a dynamic array.
+# Description: Implementation of a Stack using a Dynamic Array.
 
 from dynamic_array import DynamicArray
 
@@ -40,5 +40,5 @@ class Stack:
         return self._da.get_at_index(self.size() - 1)
 
 if __name__ == "__main__":
-    # Add any necessary test cases to verify your implementation
+    # You can add your test cases here to validate the implementation
     pass
