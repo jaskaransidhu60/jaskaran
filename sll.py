@@ -3,7 +3,7 @@
 # Course: CS261 - Data Structures
 # Assignment: 3
 # Due Date: 22 July
-# Description: Implementation of a singly linked list and its associated methods.
+# Description: Implementation of a Singly Linked List with various methods.
 
 class SLNode:
     def __init__(self, value):
@@ -111,5 +111,5 @@ class LinkedList:
         return sliced_list
 
 if __name__ == "__main__":
-    # Add any necessary test cases to verify your implementation
+    # You can add your test cases here to validate the implementation
     pass
